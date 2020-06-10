@@ -22,7 +22,5 @@ public class Starter {
     service.execute(numbersWriter);
     service.execute(multiplierOne);
     service.execute(multiplierTwo);
-
-    while (true);
   }
 }
